@@ -1,0 +1,14 @@
+Project License:
+
+CC-BY 3.0: http://creativecommons.org/licenses/by/3.0/us/
+
+You are free to use the included assets for whatever you would like, but I ask that you provide attribution if you do so.
+
+Licenses for included software is as follows: 
+
+GoKit: (NOTE: NON-COMMERCIAL OUTSIDE OF GAMES) https://github.com/prime31/GoKit/blob/master/README.md
+
+fonts: http://www.apache.org/licenses/LICENSE-2.0.html
+
+XboxCtrlInput: https://github.com/JISyed/Unity-XboxCtrlrInput/blob/master/UNLICENSE.md
+
